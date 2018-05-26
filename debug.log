@@ -1,0 +1,4 @@
+[0526/124137:ERROR:exception_handler_server.cc(504)] failed to open 9084
+[0526/124137:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: No process is on the other end of the pipe. (0xE9)
+[0526/124522:ERROR:exception_handler_server.cc(504)] failed to open 8336
+[0526/124522:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: No process is on the other end of the pipe. (0xE9)

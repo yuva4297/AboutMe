@@ -1,0 +1,22 @@
+nav
+{
+    background-color: lightsteelblue;
+    height: 50px;
+
+}
+.float-left
+{
+    float: left;
+    margin-left: 2%;
+    
+}
+.float-right
+{
+    float: right;
+    margin-right: 2%;
+    
+}
+a
+{
+    margin: auto;
+}
